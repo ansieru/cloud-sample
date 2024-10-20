@@ -11,7 +11,7 @@ spec:
       - path: /
         backend:
           service:
-            name: cloud-sample
+            name: 82023052
             port:
               number: 8080
         pathType: Prefix
